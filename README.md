@@ -1,4 +1,4 @@
-# vuestacks-calendar-vue-vuex-firebase
+# vuestacks-calendar-vue-firebase-vuexfire
 
 ## Project setup
 ```
